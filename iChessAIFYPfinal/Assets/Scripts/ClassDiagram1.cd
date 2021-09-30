@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChessBishopPiece">
+    <Position X="0.5" Y="7.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChessBishopPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessRookPiece">
+    <Position X="3.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChessRookPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessQueenPiece">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChessQueenPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessPieceMoveHighlight">
+    <Position X="15.25" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAIAQAAAAAIAAAAAAAAAABAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChessPieceMoveHighlight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessPiece">
+    <Position X="2.75" Y="3.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAABAAAAAgAAAAAAAAAAAAAAAADAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChessPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessPawnPiece">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChessPawnPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessKnightPiece">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChessKnightPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessKingPiece">
+    <Position X="6" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\ChessKingPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessBoardManager">
+    <Position X="10.75" Y="1" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIQAAAICCACCShAQgAkAACAEEACQAASBEAAIBACJA=</HashCode>
+      <FileName>Assets\Scripts\ChessBoardManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyAI">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAQAABAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\EasyAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

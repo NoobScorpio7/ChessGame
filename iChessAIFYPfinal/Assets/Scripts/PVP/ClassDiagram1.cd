@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="mainmenuscript" Collapsed="true">
+    <Position X="21.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACJAAAAAAAAAIAAAAAAAAAAACAAAAQBAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Scripts\mainmenuscript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadGame" Collapsed="true">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerModes\LoadGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MAXDEPTH" Collapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAACAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerModes\MAXDEPTH.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PvEasy" Collapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAgQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerModes\PvEasy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PvHard" Collapsed="true">
+    <Position X="21.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAgQABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerModes\PvHard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PvMedium" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAgQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerModes\PvMedium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PVP" Collapsed="true">
+    <Position X="16" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PlayerModes\PVP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessBishopPiece1" Collapsed="true">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVAii\ChessBishopPiece1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessBoardEvaluation" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAgJAgAAAAgAIAAAAgBAgAAAACAAIAAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Scripts\PVAii\ChessBoardEvaluation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessKingPiece1" Collapsed="true">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVAii\ChessKingPiece1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessKnightPiece1" Collapsed="true">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVAii\ChessKnightPiece1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessMedium" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAKEAACAgkAAQAAgAABAAgAAAAAAACIAAAIAA=</HashCode>
+      <FileName>Assets\Scripts\PVAii\ChessMedium.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessPawnPiece1" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVAii\ChessPawnPiece1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessPiece1" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAABAAAAAgAAAAAAAAAAAAAAAADAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVAii\ChessPiece1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessPieceMoveHighlight1" Collapsed="true">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAIAQAAAAAIAAAAAAAAAABAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVAii\ChessPieceMoveHighlight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessQueenPiece1" Collapsed="true">
+    <Position X="7.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVAii\ChessQueenPiece1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessRookPiece1" Collapsed="true">
+    <Position X="11.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVAii\ChessRookPiece1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EasyAI" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAQAABAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVAii\EasyAI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="heuristics" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAgJAAACAAgAIAAAAgBAgAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVAii\heuristics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LocalBoard" Collapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQMQAOBImAACAQgAQUAgAgCAgAAgQAAShACAAAAAJA=</HashCode>
+      <FileName>Assets\Scripts\PVAii\LocalBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveData" Collapsed="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAABCAAAAIAQAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\PVAii\MoveData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerTurn" Collapsed="true">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVAii\PlayerTurn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessBishopPiece" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVP\ChessBishopPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessBoardManager" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIQMBCLCCQXAmhEUgCkAACAGAEKQBESBExIIUBQJE=</HashCode>
+      <FileName>Assets\Scripts\PVP\ChessBoardManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessKingPiece" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVP\ChessKingPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessKnightPiece" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVP\ChessKnightPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessPawnPiece" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVP\ChessPawnPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessPiece" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAABAAAAAgAAAAAAAAAAAAAAAADAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVP\ChessPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessPieceMoveHighlight" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAIAQAAAAAIAAAAAAAAAABAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVP\ChessPieceMoveHighlight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessQueenPiece" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVP\ChessQueenPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChessRookPiece" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PVP\ChessRookPiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

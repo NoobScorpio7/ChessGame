@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Chess/Scene/menuscene.unity
+    guid: 703c09db5ad75594d86bc7ef9b66d86a
+  - enabled: 1
+    path: Assets/Chess/Scene/pvcomputer.unity
+    guid: bff4e4b970a11374d80f32f44c0842bb
+  - enabled: 1
+    path: Assets/Chess/Scene/PVP.unity
+    guid: fec60bce4f2302645b4b8554453d007f
+  - enabled: 1
+    path: Assets/Chess/Scene/EASY.unity
+    guid: 3ddad234d959bc842a2b6de9fa015e92
+  - enabled: 1
+    path: Assets/Chess/Scene/MEDIUM.unity
+    guid: f885830224aa58641b0a164c5e8af713
+  - enabled: 1
+    path: Assets/Chess/Scene/HARD.unity
+    guid: 9c8c627ca35d3cf45adc47de534b810b
+  - enabled: 1
+    path: Assets/Chess/Scene/LoadGame.unity
+    guid: d4889bc41a93b114f998b240730d316c
+  - enabled: 1
+    path: Assets/Chess/Scene/puzzlescene.unity
+    guid: 0d190c9854b8b7541ba1f950366bb7ae
+  - enabled: 1
+    path: Assets/Chess/Scene/Puzzel1.unity
+    guid: fda3163588745e14e89695517b8e28d8
+  - enabled: 1
+    path: Assets/Chess/Scene/Puzzel2.unity
+    guid: ebb6c87fa7243f24da33535d84b6ecda
+  - enabled: 1
+    path: Assets/Chess/Scene/Puzzel3.unity
+    guid: fb9ccf6fdf25de5448d396af47ebbb42
+  m_configObjects: {}
